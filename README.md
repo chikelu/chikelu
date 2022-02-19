@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chikelu
-- 👀 I’m interested in ...Data vissualization, data engineering and data science
+- 👀 I’m interested in ...Data visualization, data engineering and data science
 - 🌱 I’m currently learning ... data engineering etl tools like aws glue
 - 💞️ I’m looking to collaborate on ...aws services and tools
 - 📫 How to reach me ...chikeluge@gmail.com
